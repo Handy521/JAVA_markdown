@@ -26,6 +26,7 @@ unpackWARs="true" autoDeploy="true">
 
 ## 三、发布一个网站
 将自己写的网站，放到服务器（Tomcat）中指定的web应用文件夹（webapps）下，就可以访问网站应该有的结构
+```	
 --webapps： Tomcat服务器的web目录
    -ROOT
    -kuangstudy:网站的目录名
@@ -38,4 +39,5 @@ unpackWARs="true" autoDeploy="true">
 	       -css
 		   -js
 		   -img
+```
 # JAVA_markdown
